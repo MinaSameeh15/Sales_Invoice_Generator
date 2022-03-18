@@ -1,4 +1,4 @@
-# Billing-System
+# Invoice_Sales_Generator
 A GUI Based Complete Store Billing System in java that generates Invoice of each sale.
 
       Requirments
